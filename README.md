@@ -11,3 +11,4 @@ that you were introduced to previously to complete this task.
 
 
 Use x = 0 and y = 0 for accurate image of Finn
+![Screenshot (39)](https://github.com/Goqwin/GraphicalFinn/assets/115321545/99b90f48-1d04-420c-99df-6937ebe15ef3)
